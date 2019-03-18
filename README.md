@@ -1,15 +1,14 @@
-# ROS Package lgsvl_msgs for LG SVL Automotive Simulator
+# Protobuf Package lgsvl_msgs for LG SVL Automotive Simulator
 
-This repository contains ROS message definitions for lgsvl_msgs to subscribe ROS messages being published by LG SVL Automotive Simulator via rosbridge.
+This repository contains protobuf message definitions for lgsvl_msgs to subscribe protobuf messages being published by LG SVL Automotive Simulator via cyber bridge.
+
 
 ```text
-<msg>
-  - Detection3DArray.msg  # A list of 3D detections
-  - Detection3D.msg       # 3D detection including id, label, score, and 3D bounding box
-  - BoundingBox3D.msg     # A 3D bounding box definition
-  - Detection2DArray.msg  # A list of 2D detections
-  - Detection2D.msg       # 2D detection including id, label, score, and 2D bounding box
-  - BoundingBox2D.msg     # A 2D bounding box definition
+<proto>
+  - detection2d.proto       # 2D detection including id, label, score, and 2D bounding box
+  - detection2darray.proto  # A list of 2D detections
+  - detection3d.proto       # 3D detection including id, label, score, and 3D bounding box
+  - detection3darray.proto  # A list of 3D detections
 ```
 
 

@@ -1,6 +1,6 @@
 syntax = "proto3";
 import "modules/common/proto/header.proto";
-import "lg_pkgs/lgsvl_msgs/proto/detection2d.proto";
+import "lgsvl_pkgs/lgsvl_msgs/proto/detection2d.proto";
 
 package apollo.common;
 

@@ -17,6 +17,8 @@ add_message_files(
   Detection2DArray.msg
   Detection2D.msg
   BoundingBox2D.msg
+  SignalArray.msg
+  Signal.msg
 )
 
 generate_messages(

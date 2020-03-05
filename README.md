@@ -10,6 +10,8 @@ This repository contains ROS message definitions for lgsvl_msgs to subscribe ROS
   - Detection2DArray.msg  # A list of 2D detections
   - Detection2D.msg       # 2D detection including id, label, score, and 2D bounding box
   - BoundingBox2D.msg     # A 2D bounding box definition
+  - SignalArray.msg       # A list of traffic light detections
+  - Signal.msg            # 3D detection of a traffic light including id, label, score, and 3D bounding box
 ```
 
 

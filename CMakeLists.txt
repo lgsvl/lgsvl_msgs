@@ -7,6 +7,9 @@ set(ROS_VERSION $ENV{ROS_VERSION})
 set(MSG_FILES
   "BoundingBox2D.msg"
   "BoundingBox3D.msg"
+  "CanBus.msg"
+  "DetectedRadarObjectArray.msg"
+  "DetectedRadarObject.msg"
   "Detection2D.msg"
   "Detection2DArray.msg"
   "Detection3D.msg"

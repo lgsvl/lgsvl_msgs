@@ -16,6 +16,7 @@ set(MSG_FILES
   "Detection3DArray.msg"
   "Signal.msg"
   "SignalArray.msg"
+  "VehicleControlData.msg"
 )
 
 if(${ROS_VERSION} EQUAL 1)

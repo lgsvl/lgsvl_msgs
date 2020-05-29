@@ -2,8 +2,8 @@
 Changelog for package lgsvl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2020-05-29)
+------------------
 * Update readme and license
 * Changing some Vector3's to Points where they make more sense.
 * Renaming CanBus to CanBusData.

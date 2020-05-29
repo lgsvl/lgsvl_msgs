@@ -2,8 +2,19 @@
 Changelog for package lgsvl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.2 (2020-03-04)
+Forthcoming
 -----------
+* Update readme and license
+* Changing some Vector3's to Points where they make more sense.
+* Renaming CanBus to CanBusData.
+* Adding VehicleStateData.
+* Adding VehicleControlData.
+* Adding CanBus and DetectedRadarObject/Array.
+* Making package hybrid ROS1/ROS2 package.
+* Contributors: Hadi Tabatabaee, Joshua Whitley
+
+0.0.2 (2020-03-04)
+------------------
 * Include signal messages in README
 * add messages for ground truth signals
 * updated license

@@ -16,6 +16,7 @@ set(MSG_FILES
   "Detection3DArray.msg"
   "Signal.msg"
   "SignalArray.msg"
+  "Ultrasonic.msg"
   "VehicleControlData.msg"
   "VehicleStateData.msg"
 )

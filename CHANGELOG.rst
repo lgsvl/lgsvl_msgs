@@ -2,8 +2,8 @@
 Changelog for package lgsvl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2020-10-21)
+------------------
 * Add VehicleOdometry.msg to README
 * Adding VehicleOdometry.
 * Update README and LICENSE

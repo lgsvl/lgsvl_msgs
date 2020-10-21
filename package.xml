@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>lgsvl_msgs</name>
-  <version>0.0.3</version>
+  <version>0.0.4</version>
   <description>Message definitions for interfacing with the LGSVL Simulator for ROS and ROS 2.</description>
   <maintainer email="hadi.tabatabaee@lge.com">Hadi Tabatabaee</maintainer>
   <maintainer email="david.uhm@lge.com">David Uhm</maintainer>

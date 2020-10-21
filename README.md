@@ -15,6 +15,7 @@ This repository contains ROS message definitions for lgsvl_msgs to subscribe ROS
   - VehicleControlData.msg  # Vehicle control commands that the simulator subscribes to
   - VehicleStateData.msg    # Description of the full state of an ego vehicle
   - Ultrasonic.msg          # Minimum detected distance by an ultrasonic sensor
+  - VehicleOdometry.msg     # Odometry for an ego vehicle
 ```
 
 ## Copyright and License

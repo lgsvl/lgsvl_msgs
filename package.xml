@@ -3,7 +3,8 @@
 <package format="3">
   <name>lgsvl_msgs</name>
   <version>0.0.3</version>
-  <description>The lgsvl_msgs package for ground truth data.</description>
+  <description>Message definitions for interfacing with the LGSVL Simulator for ROS and ROS 2.</description>
+  <maintainer email="hadi.tabatabaee@lge.com">Hadi Tabatabaee</maintainer>
   <maintainer email="david.uhm@lge.com">David Uhm</maintainer>
   <license>BSD</license>
   <author email="david.uhm@lge.com">David Uhm</author>
